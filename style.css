@@ -28,6 +28,8 @@ body{
 .secao{
   margin-left: 50px;
   margin-right: 50px;
+  margin-bottom: 10px;
+  margin-top: 15px;
   padding: 20px;
   background-color: greenyellow;
   border-radius: 10px;
