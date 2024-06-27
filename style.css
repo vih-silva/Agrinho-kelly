@@ -27,6 +27,7 @@ body{
 /*seções comuns ou seção 1*/
 .secao{
   margin-left: 50px;
+  margin-right: 50px;
   padding: 20px;
   background-color: greenyellow;
 }
